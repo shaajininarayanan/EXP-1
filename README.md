@@ -40,36 +40,41 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
 
+<img width="530" height="475" alt="image" src="https://github.com/user-attachments/assets/4e104ed3-1924-40d2-a0e7-90c7a5b438dc" />
+
+<img width="501" height="431" alt="image" src="https://github.com/user-attachments/assets/21fa7554-d8f9-4ab3-9762-b8d4e61b1988" />
+
 CIRCUIT DIAGRAM:
 
 
 
 a.   KVL:
 
-
- <img width="300" height="597" alt="image" src="https://github.com/user-attachments/assets/b0257b56-81ba-4a04-b703-a738f2ac79d0" />
-<img width="783" height="318" alt="image" src="https://github.com/user-attachments/assets/22948a17-45a1-417e-adff-0da92b20a992" />
-
+<img width="606" height="335" alt="image" src="https://github.com/user-attachments/assets/1af8b593-9649-45cd-9819-1706ab29f056" />
 
 
 b.  KCL:
 
+<img width="591" height="325" alt="image" src="https://github.com/user-attachments/assets/4405dca1-3dcc-449b-bac9-7a4e082d4cc8" />
 
-<img width="781" height="394" alt="image" src="https://github.com/user-attachments/assets/f9e94e87-a582-4b23-8cb5-f0927f276706" />
-<img width="804" height="442" alt="image" src="https://github.com/user-attachments/assets/ca2bf86a-bc17-4c40-919e-8b02773470e4" />
 
  
 
 Calculation:
 
 a.   KVL:
- 
 
-<img width="634" height="751" alt="image" src="https://github.com/user-attachments/assets/61bba4c4-ed69-4f35-b728-5e4c95321d12" />
+ <img width="601" height="252" alt="image" src="https://github.com/user-attachments/assets/d140cf82-6f90-4b45-b0ed-0ba09ff3ffaa" />
+<img width="575" height="287" alt="image" src="https://github.com/user-attachments/assets/328c5536-ba52-4af7-a907-0c258af11402" />
+
+
+
 
 b.  KCL:
 
-<img width="664" height="758" alt="image" src="https://github.com/user-attachments/assets/1fd4cd92-7852-4e0b-be29-1cf5787997d6" />
+<img width="598" height="282" alt="image" src="https://github.com/user-attachments/assets/e1efa261-d286-415a-a854-79795c266e48" />
+<img width="588" height="392" alt="image" src="https://github.com/user-attachments/assets/2184f97a-f4ce-4499-b009-de68a7148c20" />
+
 
 
 
@@ -77,12 +82,13 @@ Tabulation:
 
 a.   KVL:
  
-<img width="630" height="255" alt="image" src="https://github.com/user-attachments/assets/2445b1e5-55dc-44fd-814b-c9c40d91ccce" />
+<img width="620" height="383" alt="image" src="https://github.com/user-attachments/assets/e5cc4bbd-d501-49d6-ab0c-8aa783f4107d" />
+
 
 
 b.  KCL:
 
-<img width="615" height="249" alt="image" src="https://github.com/user-attachments/assets/2abea679-1703-4e09-9a21-8bf3040cd109" />
+<img width="591" height="388" alt="image" src="https://github.com/user-attachments/assets/215aee4c-bf9e-4831-a428-d345340e80c0" />
 
 
 RESULT:
